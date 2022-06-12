@@ -1,0 +1,26 @@
+.hero{
+    width: 100%;
+    height: auto;
+    background-color: #F9BE79 !important;
+    .mytext{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        h1{
+            font-size: 120%;
+            font-weight: 700;
+            a{
+                color: #2F2E41;
+            }
+        }
+        h2{
+            font-size: 3.5rem;
+            color: #2F2E41;
+            font-weight: 800;
+        }
+        .myinput{
+            width: 100%;
+        }
+        }
+    }
+

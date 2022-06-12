@@ -1,0 +1,19 @@
+header{
+    // position: fixed;
+    // z-index: 1;
+    width: 100%;
+    height: auto;
+    background-color: #fff !important;
+    .imglogo{
+        width: 10%;
+        border-right: 0.5px solid #EEEEEE;
+    }
+    .myicon{
+        width: 13%;
+        font-size: 20px;
+        border-left: 0.5px solid #EEEEEE;
+        display: flex;
+        justify-content: space-around   ;
+        align-items: center;
+    }
+}
